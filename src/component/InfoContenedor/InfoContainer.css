@@ -1,0 +1,68 @@
+.Class-Nana{
+width:80vh;
+height:80vh!Important;    
+}
+
+
+.Class-Momo{
+position: relative;
+left:100vh;
+top:-45vh;
+}
+ 
+
+.Class-Lala{
+position: relative;
+top:-7vh!Important;  
+}
+
+
+.Class-Yami{
+position: relative;
+right:4vh;
+
+}
+
+
+p.ridge-one {
+border-style: ridge;
+width:4vh;
+text-align:center;
+}
+
+
+p.ridge-two {
+border-style: ridge;
+width:4vh;
+text-align:center;
+position: relative;
+left:-17vh;
+}
+
+
+p.ridge-three {
+border-style: ridge;
+width:5vh;
+position: relative;
+left:-34vh;
+text-align: center;
+}
+
+
+
+.Class-Kuro{
+font-size:3vh; 
+font-family: 'Noto Serif', serif; 
+position: relative;
+bottom:3vh;   
+}
+
+
+
+.Class-Miyubi{
+position: relative;
+bottom:2vh;    
+font-size:3vh; 
+font-family: 'Noto Serif', serif;
+}
+

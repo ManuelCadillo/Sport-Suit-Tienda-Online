@@ -1,0 +1,76 @@
+.form-dark .font-small {
+font-size: 0.8rem; }
+
+.form-dark [type="radio"] + label,
+.form-dark [type="checkbox"] + label {
+font-size: 0.8rem; }
+
+.form-dark [type="checkbox"] + label:before {
+top: 2px;
+width: 15px;
+height: 15px; }
+
+.form-dark .md-form label {
+color: #fff; }
+
+.form-dark input[type=text]:focus:not([readonly]) {
+border-bottom: 1px solid #00C851;
+-webkit-box-shadow: 0 1px 0 0 #00C851;
+box-shadow: 0 1px 0 0 #00C851; }
+
+.form-dark input[type=text]:focus:not([readonly]) + label {
+color: #fff; }
+
+.form-dark input[type=password]:focus:not([readonly]) {
+border-bottom: 1px solid #00C851;
+-webkit-box-shadow: 0 1px 0 0 #00C851;
+box-shadow: 0 1px 0 0 #00C851; }
+
+.form-dark input[type=password]:focus:not([readonly]) + label {
+color: #fff; }
+
+.form-dark input[type="checkbox"] + label:before {
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+width: 17px;
+height: 17px;
+z-index: 0;
+border: 1.5px solid #fff;
+border-radius: 1px;
+margin-top: 2px;
+-webkit-transition: 0.2s;
+transition: 0.2s; }
+
+
+.banner{
+position:fixed;
+top:10vh;  
+left:1vh;
+}
+
+.TextColor-One{
+color:#fafafa!Important;
+margin-top:-3vh!Important;
+}
+
+
+.TextColor-Two{
+color:#fafafa!Important;
+margin-top:13vh!Important;
+}
+
+.text-white.rgba-stylish-strong.py-4.px-4.z-depth-4{
+height:80vh!Important;  
+padding-top: 20vh!Important; 
+}
+
+.btn-block.z-depth-1{
+position: relative;
+top:13vh;  
+width:25vh!Important; 
+left:13vh;
+background-color:darkslategrey!Important;
+}
+

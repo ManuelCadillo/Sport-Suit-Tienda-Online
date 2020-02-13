@@ -1,0 +1,37 @@
+.class-one{
+width:50vh;
+height:70vh!Important; 
+position: relative;
+top:-125vh;
+left:58vh;  
+}
+
+
+.d-one{
+width:50vh;
+height:70vh!Important;    
+}
+
+.d-two{
+width:50vh;
+height:70vh!Important; 
+}
+
+
+.d-three{
+width:50vh;
+height:70vh!Important; 
+}
+
+.carousel .carousel-control-prev-icon,
+.carousel .carousel-control-next-icon{
+width:50vh!Important;
+height:50vh!Important;
+}
+
+
+
+.carousel-indicators li {
+background-color:darkslategrey!Important;    
+}
+
